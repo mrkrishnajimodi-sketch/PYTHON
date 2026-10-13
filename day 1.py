@@ -36,4 +36,4 @@
 #v=12.5 for fraction and decimal we use float
 name = "krishna"
 Name = "ANUSHKA"
-print(Name)
+print(Name,name)

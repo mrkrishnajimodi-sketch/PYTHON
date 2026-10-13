@@ -231,6 +231,9 @@ for i in range(1, N+1):
         print(count)"""
 
 
+
+
+
 """N=int(input("tell your number"))
 count=0
 for i in range(1,N+1):
@@ -241,3 +244,106 @@ print(count)"""
 
 
        
+
+"""N= int(input("tell your number"))
+for i in range(1, N+1):
+    if i%7==0:
+        print(i)
+        break"""
+
+
+
+"""N= int(input("tell your number"))
+for i in range(1 , N+1):
+    if i%7==0:
+        continue
+    print(i)"""
+
+
+
+
+
+
+
+
+
+"""N= int(input("tell your number"))
+for i in range(1, N+1):
+    if i%7==0:
+        print(i)
+        break"""
+
+
+
+
+"""correctpass=123456
+for i in range(1, 4):
+    N=int(input('tell your number'))
+    if N==correctpass:
+        print("lofgin suuccessful")
+        break
+    else:
+        left=3-i
+    if left>0:
+        print("you have attempt left" , left)
+    else:
+        print("account blocked")"""
+
+
+"""N= int(input("tell your number"))
+while N!=0:
+    print(N%10)
+    if N==7:
+        print("number 7 is found")
+        break
+    else:
+        
+        
+        
+        
+        print("the number 7 is not found")
+
+    N=N//10"""
+
+
+
+"""N= int(input("tell your number"))
+sum=0
+for i in range(1 ,N+1):
+    if i%3==0:
+        sum=sum+i
+        print(sum)
+        continue
+        
+    elif sum>100:
+        print("loop is out of 100")
+        break"""
+
+N= int(input("tell your number"))
+while N!=0:
+
+
+    z=N%10
+    print(z)
+    if N==0: 
+        continue
+    elif N%2==0:
+        print(N)
+    elif N%2!=0:
+        continue
+    elif N==7:
+        print("7 is founded")
+        break
+    N=N//10
+
+
+
+
+
+
+
+
+
+
+
+    
