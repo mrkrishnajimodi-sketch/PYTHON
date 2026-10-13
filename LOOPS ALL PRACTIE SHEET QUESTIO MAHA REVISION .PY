@@ -335,6 +335,7 @@ while N!=0:
         print("7 is founded")
         break
     N=N//10
+          
 
 
 
