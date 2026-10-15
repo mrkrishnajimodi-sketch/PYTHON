@@ -79,6 +79,7 @@ print(l)"""
 
 
 
+
 l=[10,20,30,40,50,60]
 K=[]
 for i in range(len(l)):
