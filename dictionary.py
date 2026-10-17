@@ -39,6 +39,27 @@ DICTIONARY
 # for key,value in d .items():#key:value
 #     print(key,value)
 #4.
-d={"a":10,"b":20,"c":30}
-d.pop("b")
-print(d)
+# d={"a":10,"b":20,"c":30}
+# d.pop("b")
+# print(d)
+
+# d={1:10, 2:20,3:30}
+# #4 .get()
+# print(d.get(2,"not found")) # if the number does not exit in dict then it will return none as a default value we can change default vaalue also
+
+
+
+# do list ko merge extend method
+# b={1:10,2:20,3:30}
+# c={4:40, 5:50}
+# b.update(c)
+# print(b)
+
+
+# #7 len()
+# N={1:10,2:20,3:30}
+# print(len(N))
+
+
+
+

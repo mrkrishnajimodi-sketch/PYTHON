@@ -120,3 +120,16 @@ print(l)"""
 
 
 
+# l=[10,96,77,145,20,98,245,576,942,875,20,10]
+# large=0
+# second =0
+# for i in range(0 ,len(l)):
+#     for j in range(0, i+1):
+#         if l[i]<l[j]:
+#             large=l[j]
+#         elif l[i]>l[j]:
+#             large=l[i]
+        
+
+# print(large)
+
